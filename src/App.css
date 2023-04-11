@@ -13,6 +13,13 @@
   }
 }
 
+.title {
+  color: antiquewhite;
+  margin-top: 50px;
+  font-size: 30px;
+  
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
